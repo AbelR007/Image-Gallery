@@ -5,15 +5,15 @@ A Simple gallery with dynamic content using SupaBase FOSS PostgreSQL for content
 ## Build with
 
 - NextJS
-    for full stack web application
+    > for full stack web application
 - SupaBase
-    for BaaS
+    > for BaaS
 - TailwindCSS
-    for modern UI
+    > for modern UI
 - TypeScript
-    for type safety purposes
+    > for type safety purposes
 - Vercel 
-    for deployment
+    > for deployment
 
 
 ## Get Started
